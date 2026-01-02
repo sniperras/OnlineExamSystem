@@ -1,10 +1,6 @@
 ```markdown
 # 🎓 Online Examination System
 
-![Java CI](https://github.com/yourusername/OnlineExamSystem/workflows/Java%20CI/badge.svg)
-![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)
-![Stars](https://img.shields.io/github/stars/yourusername/OnlineExamSystem?style=social)
-
 ## 🚀 Overview
 
 **Online Examination System** is a **Java-based command-line application** designed to facilitate **secure, efficient, and automated online exams** for educational institutions. This system allows **administrators to create and manage exams**, **students to take timed quizzes**, and **view their results**—all from a **simple, intuitive interface**.
