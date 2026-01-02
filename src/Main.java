@@ -1,3 +1,14 @@
+/*
+* STUDENT NAME                              ID
+1. NATNAEL BIZUNEH                  ADMA/1311/24    ADMA/0699/25
+2. BEZANESH MELKA                   ADMA/0523/23
+3. MESKEREME ABAKO                  ADMA/1637/23
+4. GENETE AMSAL                     ADMA/1628/23
+5. MAHLET TAMIRAT                   ADMA/1534/23
+*
+* */
+
+
 import model.Student;
 import service.AdminService;
 import service.Exam;
