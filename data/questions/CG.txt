@@ -1,0 +1,35 @@
+Which device is used to display graphics output?
+Scanner
+Printer
+Monitor
+Plotter
+C
+---
+What is a pixel?
+A hardware component
+A picture element
+A resolution unit
+A memory unit
+B
+---
+Which algorithm is used for line drawing?
+Flood Fill
+Bresenham’s Algorithm
+Scanline Algorithm
+Bezier Algorithm
+B
+---
+What does RGB stand for?
+Red Green Blue
+Right Green Black
+Red Gray Blue
+Random Graphics Buffer
+A
+---
+Which transformation changes the size of an object?
+Translation
+Rotation
+Scaling
+Reflection
+C
+---

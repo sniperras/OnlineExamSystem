@@ -1,0 +1,5 @@
+Student Name: Natnael Bizuneh
+Student ID: adma/1311/24
+Topic: OOP
+Score: 2 / 5
+Date: Wed Dec 17 15:20:13 EAT 2025

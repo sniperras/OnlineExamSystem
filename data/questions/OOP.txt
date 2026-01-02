@@ -1,0 +1,35 @@
+What is the main purpose of encapsulation in OOP?
+Data hiding
+Code duplication
+Memory allocation
+Inheritance
+A
+---
+Which keyword is used to inherit a class in Java?
+implements
+inherits
+extends
+super
+C
+---
+Which concept allows a class to have multiple methods with the same name but different parameters?
+Inheritance
+Abstraction
+Polymorphism
+Encapsulation
+C
+---
+Which OOP principle focuses on exposing only essential features?
+Inheritance
+Polymorphism
+Abstraction
+Encapsulation
+C
+---
+Which access modifier makes a member accessible only within the same class?
+public
+protected
+default
+private
+D
+---

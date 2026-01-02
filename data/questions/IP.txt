@@ -1,0 +1,35 @@
+Which protocol is used to transfer web pages?
+FTP
+SMTP
+HTTP
+TCP
+C
+---
+Which HTTP method is typically used to send data to a server?
+GET
+POST
+PUT
+DELETE
+B
+---
+Which language is mainly used for client-side web scripting?
+PHP
+Java
+JavaScript
+Python
+C
+---
+What does HTML stand for?
+Hyper Tool Markup Language
+Hyperlinks and Text Markup Language
+Hyper Text Markup Language
+Home Tool Markup Language
+C
+---
+Which status code means "Page Not Found"?
+200
+301
+403
+404
+D
+---

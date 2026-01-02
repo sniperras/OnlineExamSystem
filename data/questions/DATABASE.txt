@@ -1,0 +1,35 @@
+What does SQL stand for?
+Structured Query Language
+Simple Query Language
+Sequential Query Language
+Standard Query List
+A
+---
+Which SQL command is used to retrieve data?
+INSERT
+UPDATE
+SELECT
+DELETE
+C
+---
+Which key uniquely identifies each record in a table?
+Foreign Key
+Candidate Key
+Primary Key
+Composite Key
+C
+---
+Which normal form removes partial dependency?
+1NF
+2NF
+3NF
+BCNF
+B
+---
+Which SQL clause is used to filter records?
+ORDER BY
+GROUP BY
+WHERE
+HAVING
+C
+---
