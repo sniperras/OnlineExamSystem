@@ -1,4 +1,3 @@
-```markdown
 # 🎓 Online Examination System
 
 ## 🚀 Overview
