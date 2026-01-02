@@ -236,7 +236,7 @@ We welcome contributions from the community! Here’s how you can help:
 1. **Fork the Repository** → [GitHub Fork Guide](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
 2. **Clone Your Fork**
    ```bash
-   git clone https://github.com/yourusername/OnlineExamSystem.git
+   git clone https://github.com/sniperras/OnlineExamSystem.git
    ```
 3. **Create a Branch**
    ```bash
